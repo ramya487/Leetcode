@@ -1,33 +1,18 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-       Arrays.sort(intervals, (arr1,arr2) -> Integer.compare(arr1[0],arr2[0]));
-        List<ArrayList<Integer>> ansLst = new ArrayList<ArrayList<Integer>>();
-        ArrayList<Integer> l = new ArrayList<Integer>();
-        l.add(intervals[0][0]);
-        l.add(intervals[0][1]);
-        ansLst.add(l);
-        int start;
-        int end;
-        int endprev;
-        for (int i = 1; i<intervals.length; i++){
-            start = intervals[i][0];
-            end = intervals[i][1];
-            endprev = ansLst.get(ansLst.size()-1).get(1);
-            if (start <= endprev){
-                ansLst.get(ansLst.size()-1).set(1, Math.max(end, endprev));
-            }else {
-                l = new ArrayList<Integer>();
-                l.add(start);
-                l.add(end);
-                ansLst.add(l);
-            }
-        }
-        int[][] ansArr = new int[ansLst.size()][2];
-        for (int i = 0; i<ansLst.size(); i++){
-            for (int j = 0; j<2; j++){
-                ansArr[i][j] = ansLst.get(i).get(j);
-            }
-        }
-        return ansArr;
+        List<int[]> ans = new ArrayList<>();
+        Arrays.sort(intervals,(a,b)->a[0]-b[0]);
+        ans.add(intervals[0]);
+        for(int i=1;i<intervals.length;i++){
+    int[] temp = new int[2];
+    if(ans.get(ans.size()-1)[1] >= intervals[i][0]){
+        temp[0] = Math.min(ans.get(ans.size()-1)[0],intervals[i][0]);
+        temp[1] = Math.max(ans.get(ans.size()-1)[1],intervals[i][1]);
+        ans.set(ans.size()-1,temp);
+    }else{
+        ans.add(intervals[i]);
+    }
+}
+return ans.toArray(new int[ans.size()][]);
     }
 }
