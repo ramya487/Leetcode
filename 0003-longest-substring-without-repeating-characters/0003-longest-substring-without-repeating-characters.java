@@ -1,3 +1,5 @@
+// O(2N) - T
+// O(N) - S
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         Set<Character> set  = new HashSet<Character>();
