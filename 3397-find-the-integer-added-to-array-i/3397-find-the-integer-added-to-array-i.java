@@ -1,3 +1,5 @@
+// T- O(2*nlogn)
+// S- O(1)
 class Solution {
     public int addedInteger(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
