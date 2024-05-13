@@ -1,9 +1,11 @@
+// T - O(N3)
+// S - O(N-2) where N is the size of nums1
 class Solution {
     public int minimumAddedInteger(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
         Arrays.sort(nums2);
         int minn = Integer.MAX_VALUE;
-        for (int i = 0; i<nums1.length; i++){
+        for (int i = 0; i<nums1.length-1; i++){
             for (int j = i+1; j<nums1.length; j++){
                 List<Integer> lst = new ArrayList<Integer>();
                 for (int k = 0; k<nums1.length; k++){
