@@ -1,3 +1,6 @@
+// T- O(2N) + O(NlogN)
+// S- O(N) 
+// where N is the length of the array points
 class Solution {
     public int minRectanglesToCoverPoints(int[][] points, int w) {
         int[] xarr = new int[points.length];
