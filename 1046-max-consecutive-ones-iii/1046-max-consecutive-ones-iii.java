@@ -1,3 +1,5 @@
+// T- O(2N)
+// S- O(1)
 class Solution {
     public int longestOnes(int[] nums, int k) {
         int left = 0;
