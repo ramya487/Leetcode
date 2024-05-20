@@ -1,3 +1,5 @@
+// T- O(N)
+// S- O(N)
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
         Map<Integer, Integer> map = new HashMap<Integer, Integer>(); // sum:count
