@@ -1,5 +1,6 @@
 // T- O(2N)
 // S- O(1)
+// sliding window + logic
 class Solution {
     public int maxScore(int[] cardPoints, int k) {
         int tot = 0;
