@@ -1,3 +1,5 @@
+// T- O(2N)
+// S- O(1)
 class Solution {
     public int maxScore(int[] cardPoints, int k) {
         int tot = 0;
