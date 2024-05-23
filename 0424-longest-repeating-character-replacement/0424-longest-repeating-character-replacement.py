@@ -1,3 +1,6 @@
+# T- O(2N)
+# S- O(M) - M no of distinct characters in s
+# sliding window + hashing
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         d = {"A":0, "B":0}
