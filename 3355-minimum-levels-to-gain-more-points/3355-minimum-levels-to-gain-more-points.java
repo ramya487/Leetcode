@@ -1,3 +1,6 @@
+// T- O(N)
+// S- O(1)
+// logic
 class Solution {
     public int minimumLevels(int[] possible) {
         int tot = 0;
