@@ -9,23 +9,47 @@
  *     }
  * }
  */
-
- // T- O(n+m)
- // S- O(n)
- // hashset + sll
+// T- O(n+m+time to reach the common node)
+// S- O(1)
+// ptrs + sll
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        Set<ListNode> sett = new HashSet<ListNode>();
         ListNode mover = headA;
+        int cA = 0;
+        int cB = 0;
         while (mover != null){
-            sett.add(mover);
+            cA++;
             mover = mover.next;
         }
         mover = headB;
         while (mover != null){
-            if (sett.contains(mover)) return mover;
+            cB++;
             mover = mover.next;
         }
-        return null;
+        int diff;
+
+        ListNode moverA = headA;
+        ListNode moverB = headB;
+
+        if (cA > cB){
+            diff = cA-cB;
+            while (diff != 0){
+                moverA = moverA.next;
+                diff--;
+            }
+        }else{
+            diff = cB-cA;
+            while (diff != 0){
+                moverB = moverB.next;
+                diff--;
+            }
+        }
+
+        while (moverA != moverB){
+            moverA = moverA.next;
+            moverB = moverB.next;
+        }
+
+        return moverA;
     }
 }
