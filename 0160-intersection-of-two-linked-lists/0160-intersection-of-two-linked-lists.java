@@ -12,6 +12,7 @@
 
  // T- O(n+m)
  // S- O(n)
+ // hashset + sll
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         Set<ListNode> sett = new HashSet<ListNode>();
