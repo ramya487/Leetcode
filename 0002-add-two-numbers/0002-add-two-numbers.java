@@ -8,6 +8,11 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ // T- O(max(n,m)) + O(max(n,m)+1)
+ // S- O(N)
+ // n,m - size of l1,l2
+ // sll + math + logic
+ 
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         int init = 0;
