@@ -1,3 +1,6 @@
+// T- O(n) + O(n-k+1)
+// S- O(n) + O(n-k+1)
+
 class Solution {
     public int[] resultsArray(int[] nums, int k) {
         int n = nums.length;
