@@ -1,5 +1,6 @@
 // T- O(n) + O(n-k+1)
 // S- O(n) + O(n-k+1)
+// sliding window + prefix sum - just for a boolean check on the elements of the subarray
 
 class Solution {
     public int[] resultsArray(int[] nums, int k) {
