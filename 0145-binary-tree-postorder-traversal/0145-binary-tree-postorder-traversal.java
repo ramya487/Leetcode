@@ -13,6 +13,8 @@
  *     }
  * }
  */
+ // T-O(N) - while loop + O(N) - collections reverse method
+ // S-O(N) - single stack + O(N) - ret list
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
         Stack<TreeNode> st1 = new Stack<>();
