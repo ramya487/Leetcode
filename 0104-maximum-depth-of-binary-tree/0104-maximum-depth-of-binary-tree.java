@@ -13,17 +13,22 @@
  *     }
  * }
  */
- // recursion
+ // level order traversal - iteration
 class Solution {
-    public static int preOrder(TreeNode root, int count){
-        if (root == null) return count;
-        count++;
-        int l = preOrder(root.left, count);
-        int r = preOrder(root.right, count);
-        return Math.max(l,r);
-    }
-
     public int maxDepth(TreeNode root) {
-        return preOrder(root, 0);
+        Queue<TreeNode> q = new LinkedList<TreeNode>();
+        int h = 0;
+        if (root == null) return h;
+        q.offer(root);
+        while (!q.isEmpty()){
+            int s = q.size();
+            h++;
+            for (int i = 0; i<s; i++){
+                TreeNode p = q.poll();
+                if (p.left != null) q.offer(p.left);
+                if (p.right != null) q.offer(p.right);
+            }
+        }
+        return h;
     }
 }
