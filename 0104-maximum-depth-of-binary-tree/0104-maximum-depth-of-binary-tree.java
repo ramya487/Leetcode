@@ -13,6 +13,7 @@
  *     }
  * }
  */
+ // recursion
 class Solution {
     public static int preOrder(TreeNode root, int count){
         if (root == null) return count;
