@@ -13,6 +13,7 @@
  *     }
  * }
  */
+// level order traversal + list comparison
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         Queue<TreeNode> queue = new LinkedList<>();
