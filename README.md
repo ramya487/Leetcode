@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ramya487/Leetcode/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/ramya487/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramya487/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/ramya487/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ramya487/Leetcode/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/ramya487/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
