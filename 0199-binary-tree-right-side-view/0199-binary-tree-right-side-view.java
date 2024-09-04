@@ -13,6 +13,7 @@
  *     }
  * }
  */
+ // level order traversal
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         Queue<TreeNode> q = new LinkedList<>();
