@@ -13,6 +13,7 @@
  *     }
  * }
  */
+ // level order traversal + java collections reverse
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         Queue<TreeNode> q = new LinkedList<>();
