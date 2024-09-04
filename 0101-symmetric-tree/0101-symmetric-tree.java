@@ -13,6 +13,7 @@
  *     }
  * }
  */
+ // level order traversal + palindrome check
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         Queue<TreeNode> q = new LinkedList<>();
