@@ -14,25 +14,18 @@
  * }
  */
 
-// brute force
-// recursively checking whether every node in the tree is balanced
-// isBalanced function does it
-// getHeight merely gets the depth of that particular subtree
-// T- O(N2)
-// S- O(h) - recursive stack space - height of the tree
 class Solution {
-    public static int getHeight(TreeNode root){
+    public static int dfs(TreeNode root){
         if (root == null) return 0;
-        int l = getHeight(root.left);
-        int r = getHeight(root.right);
+        int l = dfs(root.left);
+        if (l == -1) return -1;
+        int r = dfs(root.right);
+        if (r == -1) return -1;
+        if (Math.abs(l-r) > 1) return -1;
         return Math.max(l,r)+1;
     }
 
     public boolean isBalanced(TreeNode root) {
-        if (root == null) return true;
-        int l = getHeight(root.left);
-        int r = getHeight(root.right);
-        if (Math.abs(l-r)<=1 && isBalanced(root.left) && isBalanced(root.right)) return true;
-        return false;
+        return !(dfs(root) == -1);
     }
 }
