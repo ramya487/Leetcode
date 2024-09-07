@@ -13,7 +13,9 @@
  *     }
  * }
  */
-
+// dfs
+// T- O(N)
+// S- O(H) - recursion stack space
 class Solution {
     public static int dfs(TreeNode root){
         if (root == null) return 0;
