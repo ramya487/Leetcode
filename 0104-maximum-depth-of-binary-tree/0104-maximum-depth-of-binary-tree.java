@@ -13,22 +13,14 @@
  *     }
  * }
  */
- // level order traversal - iteration
+ // recursion + logic
+ // T- O(N)
+ // S- O(H) - recursion stack space
 class Solution {
     public int maxDepth(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<TreeNode>();
-        int h = 0;
-        if (root == null) return h;
-        q.offer(root);
-        while (!q.isEmpty()){
-            int s = q.size();
-            h++;
-            for (int i = 0; i<s; i++){
-                TreeNode p = q.poll();
-                if (p.left != null) q.offer(p.left);
-                if (p.right != null) q.offer(p.right);
-            }
-        }
-        return h;
+        if (root == null) return 0;
+        int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
+        return Math.max(left, right)+1;
     }
 }
