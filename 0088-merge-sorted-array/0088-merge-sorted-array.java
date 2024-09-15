@@ -1,33 +1,20 @@
-// using extra space
+// T- O(n)
+// S- O(n)
+// two ptrs
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int[] newArr = new int[m+n];
-        int ptr1 = 0;
-        int ptr2 = 0;
-        int counter = 0;
-        while (ptr1<m && ptr2<n){
-            if (nums1[ptr1] < nums2[ptr2]){
-                newArr[counter] = nums1[ptr1];
-                counter++;
-                ptr1++;
+        int l = m-1;
+        int r = n-1;
+        int p = m+n-1;
+        while (r>=0) {
+            if (l>=0 && nums1[l] > nums2[r]){
+                nums1[p] = nums1[l];
+                l--;
             }else{
-                newArr[counter] = nums2[ptr2];
-                counter++;
-                ptr2++;
+                nums1[p] = nums2[r];
+                r--;
             }
-        }
-        while (ptr1 != m){
-            newArr[counter] = nums1[ptr1];
-            counter++;
-            ptr1++;
-        }
-        while (ptr2 != n){
-            newArr[counter] = nums2[ptr2];
-            counter++;
-            ptr2++;
-        }
-        for (int i = 0; i<nums1.length; i++){
-            nums1[i] = newArr[i];
+            p--;
         }
     }
 }
