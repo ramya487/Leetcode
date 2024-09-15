@@ -1,5 +1,5 @@
 // T- O(n)
-// S- O(n)
+// S- O(1)
 // two ptrs
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
