@@ -13,14 +13,16 @@
  *     }
  * }
  */
- // recursion + logic
- // T- O(N)
- // S- O(H) - recursion stack space
+
 class Solution {
+    public static int recur(TreeNode root, int count){
+        if (root == null) return count;
+        count++;
+        int l = recur(root.left, count);
+        int r = recur(root.right, count);
+        return Math.max(l,r);
+    }
     public int maxDepth(TreeNode root) {
-        if (root == null) return 0;
-        int left = maxDepth(root.left);
-        int right = maxDepth(root.right);
-        return Math.max(left, right)+1;
+        return recur(root, 0);
     }
 }
