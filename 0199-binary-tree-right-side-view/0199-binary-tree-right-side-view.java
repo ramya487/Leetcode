@@ -13,22 +13,16 @@
  *     }
  * }
  */
- // level order traversal
 class Solution {
+    public static List<Integer> recur(TreeNode root, int level, List<Integer> ds){
+        if (root == null) return null;
+        if (ds.size() == level) ds.add(root.val);
+        recur(root.right, level+1, ds);
+        recur(root.left, level+1, ds);
+        return ds;
+    }
     public List<Integer> rightSideView(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<>();
-        List<Integer> ret = new ArrayList<>();
-        if (root == null) return new ArrayList<>();
-        q.offer(root);
-        while (!q.isEmpty()){
-            int s = q.size();
-            for (int i = 0; i<s; i++){
-                TreeNode temp = q.poll();
-                if (i == s-1) ret.add(temp.val);
-                if (temp.left != null) q.offer(temp.left);
-                if (temp.right != null) q.offer(temp.right);
-            }
-        }
-        return ret;
+        if (root == null) return new ArrayList<Integer>();
+        return recur(root, 0, new ArrayList<Integer>());
     }
 }
