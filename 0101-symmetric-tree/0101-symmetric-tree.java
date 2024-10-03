@@ -13,34 +13,14 @@
  *     }
  * }
  */
- // level order traversal + palindrome check
+// recursion - brute force
 class Solution {
+    public static boolean util(TreeNode left, TreeNode right){
+        if (left == null || right == null) return left == right;
+
+        return left.val == right.val && util(left.left, right.right) && util(left.right, right.left);
+    }
     public boolean isSymmetric(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<>();
-        List<List<Integer>> ls = new ArrayList<>();
-        q.add(root);
-        while (!q.isEmpty()){
-            int s = q.size();
-            List<Integer> l = new ArrayList<>();
-            for (int i = 0; i<s; i++){
-                TreeNode temp = q.poll();
-                if (temp == null){
-                    l.add(null);
-                }else{
-                    l.add(temp.val);
-                    q.offer(temp.left);
-                    q.offer(temp.right);
-                }
-            }
-            ls.add(l);
-        }
-        for (List<Integer> item: ls){
-            for (int i = 0; i<item.size()/2; i++){
-                if (item.get(i) != item.get(item.size()-i-1)){
-                    return false;
-                }
-            }
-        }
-        return true;
+        return util(root.left, root.right);
     }
 }
