@@ -14,6 +14,9 @@
  * }
  */
 // recursion - brute force
+// T- O(N)
+// S- O(H): recursion stack space
+
 class Solution {
     public static boolean util(TreeNode left, TreeNode right){
         if (left == null || right == null) return left == right;
