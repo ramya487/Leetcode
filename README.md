@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramya487/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ramya487/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ramya487/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ramya487/Leetcode/tree/master/0148-sort-list) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ramya487/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ramya487/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ramya487/Leetcode/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/ramya487/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0088-merge-sorted-array) |
