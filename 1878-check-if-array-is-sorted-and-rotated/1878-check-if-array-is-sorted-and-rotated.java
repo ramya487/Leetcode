@@ -1,3 +1,5 @@
+// T- O(N)
+// S- O(1)
 class Solution {
     public boolean check(int[] nums) {
         int n = nums.length;
