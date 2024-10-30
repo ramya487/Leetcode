@@ -1,6 +1,6 @@
 // T- O(N)
 // S- O(1)
-
+// two ptrs
 class Solution {
     public int removeDuplicates(int[] nums) {
         int n = nums.length;
