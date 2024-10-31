@@ -1,3 +1,5 @@
+// T- O(2N)
+// S- O(N)
 class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
