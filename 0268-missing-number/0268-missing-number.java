@@ -1,3 +1,6 @@
+// math and logic
+//T- O(N)
+//S- O(1)
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
