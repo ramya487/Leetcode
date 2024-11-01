@@ -1,3 +1,5 @@
+// T- O(N) + O(no of zeros)
+// S- O(1)
 class Solution {
     public void moveZeroes(int[] nums) {
         int n = nums.length;
