@@ -1,5 +1,5 @@
-// T- O(2N)
-// S- O(N)
+// T- O(N)
+// S- O(1)
 class Solution {
     public static void reverse(int[] nums, int start, int end){
         while (start<=end){
