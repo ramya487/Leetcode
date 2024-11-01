@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ramya487/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/ramya487/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/ramya487/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ramya487/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ramya487/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ramya487/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ramya487/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramya487/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ramya487/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
