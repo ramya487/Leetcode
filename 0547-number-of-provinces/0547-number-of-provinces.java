@@ -1,3 +1,5 @@
+// T- O(N2) + O(N) + 
+
 class Solution {
     public static List<List<Integer>> createAdjList(int[][] matrix){
         int n = matrix.length;
@@ -7,7 +9,7 @@ class Solution {
         }
         for (int i = 0; i<n; i++){
             for (int j = 0; j<n; j++){
-                if (matrix[i][j] == 1) adjList.get(i).add(j);
+                if (matrix[i][j] == 1 && j != i) adjList.get(i).add(j);
             }
         }
 
