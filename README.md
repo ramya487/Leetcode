@@ -52,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ramya487/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ramya487/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ramya487/Leetcode/tree/master/0319-bulb-switcher) |
+| [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ramya487/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ramya487/Leetcode/tree/master/0063-unique-paths-ii) |
+| [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ramya487/Leetcode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ramya487/Leetcode/tree/master/0547-number-of-provinces) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
