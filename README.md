@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ramya487/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/ramya487/Leetcode/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ramya487/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ramya487/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1603-running-sum-of-1d-array](https://github.com/ramya487/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramya487/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ramya487/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ramya487/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ramya487/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
