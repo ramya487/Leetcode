@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ramya487/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ramya487/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1603-running-sum-of-1d-array](https://github.com/ramya487/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramya487/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ramya487/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Matrix
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/ramya487/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
