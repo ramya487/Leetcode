@@ -1,11 +1,10 @@
 class Solution {
     public static int noOfSetBit(int n){
-        int count = 0;
-        while (n>1){
-            if (n%2 == 1) count++;
-            n = n/2;
+         int count = 0;
+        while (n > 0) {
+            count += n & 1;
+            n >>= 1;
         }
-        if (n == 1) count++;
         return count;
     }
     public int[] sortByBits(int[] arr) {
