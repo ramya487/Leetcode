@@ -15,14 +15,10 @@
  */
 
 class Solution {
-    public static int recur(TreeNode root, int count){
-        if (root == null) return count;
-        count++;
-        int l = recur(root.left, count);
-        int r = recur(root.right, count);
-        return Math.max(l,r);
-    }
     public int maxDepth(TreeNode root) {
-        return recur(root, 0);
+        if (root == null) return 0;
+        int l = maxDepth(root.left);
+        int r = maxDepth(root.right);
+        return Math.max(l,r)+1;
     }
 }
