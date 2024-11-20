@@ -1,3 +1,5 @@
+// T- O(N)
+// S- O(1)
 class Solution {
     public int peakIndexInMountainArray(int[] arr) {
         int n = arr.length;
