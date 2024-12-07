@@ -1,39 +1,34 @@
 class Solution {
-    private void dfs(char[][] board, int i, int j) {
-        int m = board.length;
-        int n = board[0].length;
-        int[][] dir = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
-        board[i][j] = 'Y';
-        for (int[] d : dir) {
-            int ix = i + d[0];
-            int jy = j + d[1];
-            if (ix > 0 && ix < m - 1 && jy > 0 && jy < n - 1 && board[ix][jy] == 'O') {
-                dfs(board, ix, jy);
+    public static void dfs(int i, int j, int[] delrow, int[] delcol, int[][] vis, char[][] mat){
+        vis[i][j] = 1;
+        for (int counter = 0; counter<4; counter++){
+            int nr = i+delrow[counter];
+            int nc = j+delcol[counter];
+            if (nr>=0 && nr<vis.length && nc>=0 && nc<vis[0].length && mat[nr][nc] == 'O' && vis[nr][nc] != 1){
+                dfs(nr, nc, delrow, delcol, vis, mat);
             }
         }
     }
     public void solve(char[][] board) {
         int m = board.length;
-        if (m == 0) return;
         int n = board[0].length;
-        // Traverse borders to find 'O's
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (i == 0 || i == m - 1 || j == 0 || j == n - 1) {
-                    if (board[i][j] == 'O') dfs(board, i, j);
-                }
-            }
+
+        int[][] vis = new int[m][n];
+        int[] delrow = {-1,0,1,0};
+        int[] delcol = {0,1,0,-1};
+
+        for (int i = 0; i<m; i++){
+            if (board[i][0] == 'O') dfs(i, 0, delrow, delcol, vis, board);
+            if (board[i][n-1] == 'O') dfs(i, n-1, delrow, delcol, vis, board);
         }
-        // Replace all 'O's with 'X's
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (board[i][j] == 'O') board[i][j] = 'X';
-            }
+        for (int i = 0; i<n; i++){
+            if (board[0][i] == 'O') dfs(0, i, delrow, delcol, vis, board);
+            if (board[m-1][i] == 'O') dfs(m-1, i, delrow, delcol, vis, board);
         }
-        // Replace all 'Y's back to 'O's
-        for (int i = 0; i < m; ++i) {
-            for (int j = 0; j < n; ++j) {
-                if (board[i][j] == 'Y') board[i][j] = 'O';
+        System.out.println(Arrays.deepToString(vis));
+        for (int i = 0; i<m; i++){
+            for (int j = 0; j<n; j++){
+                if (vis[i][j] != 1) board[i][j] = 'X';
             }
         }
     }
