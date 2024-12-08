@@ -1,38 +1,42 @@
-// graph - dfs
 class Solution {
-    public static void dfs(int i, int j, int[][] vis, int[] delrow, int[] delcol, int[][] mat){
-        vis[i][j] = 1;
-        for (int counter = 0; counter<4; counter++){
-            int nr = i+delrow[counter];
-            int nc = j+delcol[counter];
-            if (nr>=0 && nr<vis.length && nc>=0 && nc<vis[0].length && vis[nr][nc] != 1 && mat[nr][nc] == 1){
-                dfs(nr,nc, vis, delrow, delcol, mat);
-            }
-        }
-    }
     public int numEnclaves(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-
-        int[][] vis = new int[m][n];
-        int[] delrow = {-1,0,1,0};
-        int[] delcol = {0,1,0,-1};
-
-        for (int i = 0; i<m; i++){
-            if (grid[i][0] == 1) dfs(i, 0, vis, delrow, delcol, grid);
-            if (grid[i][n-1] == 1) dfs(i, n-1, vis, delrow, delcol, grid);
+        int[][] visited = new int[m][n];
+        for (int i = 0; i < m; i++) {
+            visited[i] = grid[i].clone();
         }
-        for (int i = 0; i<n; i++){
-            if (grid[0][i] == 1) dfs(0, i, vis, delrow, delcol, grid);
-            if (grid[m-1][i] == 1) dfs(m-1, i, vis, delrow, delcol, grid);
-        }
-        int c = 0;
-        for (int i = 0; i<m; i++){
-            for (int j = 0; j<n; j++){
-                if (vis[i][j] == 0 && grid[i][j] == 1) c++;
+        Queue<int[]> q = new LinkedList<>();
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if ((i == 0 || i == m-1 || j == 0 || j == n-1) && (visited[i][j] == 1)) {
+                    q.offer(new int[]{i, j});
+                    visited[i][j] = 0;
+                }
             }
         }
-        
-        return c;
+        int[][] dirs = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+        while (!q.isEmpty()) {
+            int[] cell = q.poll();
+            int x = cell[0];
+            int y = cell[1];
+            for (int[] dir : dirs) {
+                int i = x + dir[0];
+                int j = y + dir[1];
+                if (i >= 0 && j >= 0 && i < m && j < n && visited[i][j] == 1) {
+                    q.offer(new int[]{i, j});
+                    visited[i][j] = 0;
+                }
+            }
+        }
+        int countLands = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (visited[i][j] == 1) {
+                    countLands++;
+                }
+            }
+        }
+        return countLands;
     }
 }
