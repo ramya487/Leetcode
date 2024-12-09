@@ -1,5 +1,6 @@
-# Write your MySQL query statement below
-SELECT product_id, year first_year, quantity, price
-FROM SALES
-WHERE (PRODUCT_ID, YEAR) IN 
-    (SELECT PRODUCT_ID, MIN(YEAR) FROM SALES GROUP BY 1);
+-- Write your PostgreSQL query statement below
+WITH temp as (SELECT product_id, MIN(year) as first_year FROM Sales GROUP BY product_id)
+
+SELECT s.product_id,s.year as first_year, s.quantity,s.price 
+FROM Sales s 
+WHERE (s.product_id,s.year) IN (SELECT product_id,first_year FROM temp)
