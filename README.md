@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ramya487/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ramya487/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ramya487/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0146-lru-cache](https://github.com/ramya487/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ramya487/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramya487/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ramya487/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ramya487/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ramya487/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/ramya487/Leetcode/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/ramya487/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramya487/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ramya487/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ramya487/Leetcode/tree/master/0268-missing-number) |
@@ -357,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ramya487/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/ramya487/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/ramya487/Leetcode/tree/master/0113-path-sum-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ramya487/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ramya487/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
