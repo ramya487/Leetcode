@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/ramya487/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/ramya487/Leetcode/tree/master/0436-find-right-interval) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0539-minimum-time-difference](https://github.com/ramya487/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Merge Sort
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/ramya487/Leetcode/tree/master/0390-elimination-game) |
 | [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
 | [0523-continuous-subarray-sum](https://github.com/ramya487/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/ramya487/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0903-implement-rand10-using-rand7](https://github.com/ramya487/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ramya487/Leetcode/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ramya487/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/ramya487/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ramya487/Leetcode/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramya487/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ramya487/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/ramya487/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0539-minimum-time-difference](https://github.com/ramya487/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Binary Search
 |  |
 | ------- |
