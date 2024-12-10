@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ramya487/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ramya487/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0473-matchsticks-to-square](https://github.com/ramya487/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ramya487/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/ramya487/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/ramya487/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/ramya487/Leetcode/tree/master/0436-find-right-interval) |
+| [0473-matchsticks-to-square](https://github.com/ramya487/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/ramya487/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ramya487/Leetcode/tree/master/0733-flood-fill) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/ramya487/Leetcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/ramya487/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ramya487/Leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/ramya487/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/ramya487/Leetcode/tree/master/0113-path-sum-ii) |
+| [0473-matchsticks-to-square](https://github.com/ramya487/Leetcode/tree/master/0473-matchsticks-to-square) |
 ## Design
 |  |
 | ------- |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/ramya487/Leetcode/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
