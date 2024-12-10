@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/ramya487/Leetcode/tree/master/0321-create-maximum-number) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ramya487/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0827-expressive-words](https://github.com/ramya487/Leetcode/tree/master/0827-expressive-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
 | [0667-beautiful-arrangement-ii](https://github.com/ramya487/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0733-flood-fill](https://github.com/ramya487/Leetcode/tree/master/0733-flood-fill) |
+| [0827-expressive-words](https://github.com/ramya487/Leetcode/tree/master/0827-expressive-words) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramya487/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0967-minimum-falling-path-sum](https://github.com/ramya487/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ramya487/Leetcode/tree/master/1036-rotting-oranges) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ramya487/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/ramya487/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0827-expressive-words](https://github.com/ramya487/Leetcode/tree/master/0827-expressive-words) |
 ## Binary Search
 |  |
 | ------- |
