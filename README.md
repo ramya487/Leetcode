@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/ramya487/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0433-minimum-genetic-mutation](https://github.com/ramya487/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0508-most-frequent-subtree-sum](https://github.com/ramya487/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/ramya487/Leetcode/tree/master/0390-elimination-game) |
 | [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
 | [0903-implement-rand10-using-rand7](https://github.com/ramya487/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
+| [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0903-implement-rand10-using-rand7](https://github.com/ramya487/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
+| [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 ## Game Theory
 |  |
 | ------- |
@@ -607,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/ramya487/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 <!---LeetCode Topics End-->
