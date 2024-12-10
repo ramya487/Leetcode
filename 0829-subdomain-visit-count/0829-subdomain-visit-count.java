@@ -1,23 +1,25 @@
+import java.time.LocalDateTime;
 class Solution {
-    HashMap<String, Integer> hm= new HashMap<>();
-    
+    HashMap<String, Integer> hm = new HashMap<>();
+
     public List<String> subdomainVisits(String[] cpdomains) {
-        List<String> result= new ArrayList<>();
-		
-        for(String s: cpdomains){
+        List<String> result = new ArrayList<>();
+
+        for (String s : cpdomains) {
             addToList(s);
         }
-        
-        for(String s: hm.keySet()){
-            StringBuilder sb= new StringBuilder( Integer.toString(hm.get(s)) );
+
+        for (String s : hm.keySet()) {
+            StringBuilder sb = new StringBuilder(Integer.toString(hm.get(s)));
             sb.append(" ");
-            sb.append( s );
-            result.add( sb.toString() );
+            sb.append(s);
+            result.add(sb.toString());
         }
         return result;
     }
-    
+
     public void addToList(String s){
+System.out.println(LocalDateTime.now());
         String[] split1= s.split(" ");
         int n= Integer.parseInt(split1[0]);
         String[] split2= split1[1].split("\\.");
