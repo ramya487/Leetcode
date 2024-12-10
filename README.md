@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ramya487/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ramya487/Leetcode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/ramya487/Leetcode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/ramya487/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ramya487/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramya487/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/ramya487/Leetcode/tree/master/0189-rotate-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ramya487/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ramya487/Leetcode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/ramya487/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ramya487/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ramya487/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/ramya487/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ramya487/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ramya487/Leetcode/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/ramya487/Leetcode/tree/master/0113-path-sum-ii) |
 ## Design
 |  |
