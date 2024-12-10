@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ramya487/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ramya487/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ramya487/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ramya487/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ramya487/Leetcode/tree/master/0148-sort-list) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ramya487/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ramya487/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ramya487/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ramya487/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ramya487/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramya487/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ramya487/Leetcode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/ramya487/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ramya487/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ramya487/Leetcode/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/ramya487/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ramya487/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ramya487/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ramya487/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ramya487/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ramya487/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ramya487/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ramya487/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/ramya487/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ramya487/Leetcode/tree/master/0402-remove-k-digits) |
 ## Binary Search Tree
