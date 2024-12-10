@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ramya487/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/ramya487/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ramya487/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/ramya487/Leetcode/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ramya487/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ramya487/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ramya487/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ramya487/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ramya487/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ramya487/Leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/ramya487/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ramya487/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramya487/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
