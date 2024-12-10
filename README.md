@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ramya487/Leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/ramya487/Leetcode/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/ramya487/Leetcode/tree/master/0319-bulb-switcher) |
+| [0365-water-and-jug-problem](https://github.com/ramya487/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/ramya487/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/ramya487/Leetcode/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/ramya487/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/ramya487/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/ramya487/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ramya487/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ramya487/Leetcode/tree/master/0733-flood-fill) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ramya487/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/ramya487/Leetcode/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/ramya487/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/ramya487/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ramya487/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ramya487/Leetcode/tree/master/0733-flood-fill) |
