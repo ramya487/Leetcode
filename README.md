@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ramya487/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ramya487/Leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/ramya487/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/ramya487/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Merge Sort
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ramya487/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ramya487/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0406-queue-reconstruction-by-height](https://github.com/ramya487/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0485-max-consecutive-ones](https://github.com/ramya487/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ramya487/Leetcode/tree/master/0733-flood-fill) |
@@ -527,10 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ramya487/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/ramya487/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ramya487/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0406-queue-reconstruction-by-height](https://github.com/ramya487/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 ## Ordered Set
 |  |
 | ------- |
