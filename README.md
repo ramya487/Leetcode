@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/ramya487/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ramya487/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Merge Sort
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ramya487/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/ramya487/Leetcode/tree/master/0554-brick-wall) |
+| [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
 | [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/ramya487/Leetcode/tree/master/0554-brick-wall) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ramya487/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/ramya487/Leetcode/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramya487/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0967-minimum-falling-path-sum](https://github.com/ramya487/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ramya487/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Greedy
 |  |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/ramya487/Leetcode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/ramya487/Leetcode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ramya487/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ramya487/Leetcode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/ramya487/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Topological Sort
 |  |
