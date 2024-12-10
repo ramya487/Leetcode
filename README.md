@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/ramya487/Leetcode/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/ramya487/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/ramya487/Leetcode/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ramya487/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/ramya487/Leetcode/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/ramya487/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/ramya487/Leetcode/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
