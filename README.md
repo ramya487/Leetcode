@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/ramya487/Leetcode/tree/master/0337-house-robber-iii) |
 | [0376-wiggle-subsequence](https://github.com/ramya487/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ramya487/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/ramya487/Leetcode/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ramya487/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ramya487/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ramya487/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0397-integer-replacement](https://github.com/ramya487/Leetcode/tree/master/0397-integer-replacement) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/ramya487/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ramya487/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/ramya487/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/ramya487/Leetcode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/ramya487/Leetcode/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/ramya487/Leetcode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
