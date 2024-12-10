@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ramya487/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ramya487/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ramya487/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/ramya487/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ramya487/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ramya487/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramya487/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ramya487/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ramya487/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/ramya487/Leetcode/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/ramya487/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ramya487/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ramya487/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ramya487/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/ramya487/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ramya487/Leetcode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/ramya487/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramya487/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramya487/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ramya487/Leetcode/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/ramya487/Leetcode/tree/master/0134-gas-station) |
 | [0321-create-maximum-number](https://github.com/ramya487/Leetcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/ramya487/Leetcode/tree/master/0324-wiggle-sort-ii) |
