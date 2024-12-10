@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ramya487/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/ramya487/Leetcode/tree/master/0321-create-maximum-number) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/ramya487/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/ramya487/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0436-find-right-interval](https://github.com/ramya487/Leetcode/tree/master/0436-find-right-interval) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Merge Sort
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/ramya487/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0433-minimum-genetic-mutation](https://github.com/ramya487/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0508-most-frequent-subtree-sum](https://github.com/ramya487/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ramya487/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ramya487/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ramya487/Leetcode/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ramya487/Leetcode/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramya487/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/ramya487/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ramya487/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/ramya487/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Binary Search
 |  |
 | ------- |
