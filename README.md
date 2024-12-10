@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ramya487/Leetcode/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/ramya487/Leetcode/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/ramya487/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/ramya487/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/ramya487/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ramya487/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ramya487/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ramya487/Leetcode/tree/master/0733-flood-fill) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ramya487/Leetcode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/ramya487/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/ramya487/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -530,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/ramya487/Leetcode/tree/master/0324-wiggle-sort-ii) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
