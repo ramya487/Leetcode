@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/ramya487/Leetcode/tree/master/0390-elimination-game) |
 | [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
+| [0903-implement-rand10-using-rand7](https://github.com/ramya487/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
+| [0903-implement-rand10-using-rand7](https://github.com/ramya487/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 ## Game Theory
 |  |
 | ------- |
@@ -579,4 +581,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/ramya487/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/ramya487/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
