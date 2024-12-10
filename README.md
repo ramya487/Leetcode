@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/ramya487/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/ramya487/Leetcode/tree/master/0390-elimination-game) |
+| [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/ramya487/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/ramya487/Leetcode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/ramya487/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ramya487/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ramya487/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ramya487/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/ramya487/Leetcode/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/ramya487/Leetcode/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -565,4 +569,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/ramya487/Leetcode/tree/master/0384-shuffle-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
