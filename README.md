@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ramya487/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/ramya487/Leetcode/tree/master/0554-brick-wall) |
 | [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
+| [0652-find-duplicate-subtrees](https://github.com/ramya487/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/ramya487/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ramya487/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ramya487/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/ramya487/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0773-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ramya487/Leetcode/tree/master/0773-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramya487/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ramya487/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/ramya487/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ramya487/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ramya487/Leetcode/tree/master/0547-number-of-provinces) |
+| [0652-find-duplicate-subtrees](https://github.com/ramya487/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/ramya487/Leetcode/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ramya487/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/ramya487/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ramya487/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ramya487/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/ramya487/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramya487/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ramya487/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
