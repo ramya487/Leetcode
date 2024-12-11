@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 | [3568-find-the-key-of-the-numbers](https://github.com/ramya487/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ramya487/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/ramya487/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -692,4 +693,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ramya487/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/ramya487/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
