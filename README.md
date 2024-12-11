@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-expressive-words](https://github.com/ramya487/Leetcode/tree/master/0827-expressive-words) |
 | [0829-subdomain-visit-count](https://github.com/ramya487/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0835-linked-list-components](https://github.com/ramya487/Leetcode/tree/master/0835-linked-list-components) |
+| [0879-maximize-distance-to-closest-person](https://github.com/ramya487/Leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramya487/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0967-minimum-falling-path-sum](https://github.com/ramya487/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ramya487/Leetcode/tree/master/1036-rotting-oranges) |
