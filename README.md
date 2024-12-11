@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ramya487/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/ramya487/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0667-beautiful-arrangement-ii](https://github.com/ramya487/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [0897-prime-palindrome](https://github.com/ramya487/Leetcode/tree/master/0897-prime-palindrome) |
 | [0903-implement-rand10-using-rand7](https://github.com/ramya487/Leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
@@ -672,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [0897-prime-palindrome](https://github.com/ramya487/Leetcode/tree/master/0897-prime-palindrome) |
 <!---LeetCode Topics End-->
