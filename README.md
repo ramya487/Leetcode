@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
 | [3568-find-the-key-of-the-numbers](https://github.com/ramya487/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ramya487/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramya487/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2433-best-poker-hand](https://github.com/ramya487/Leetcode/tree/master/2433-best-poker-hand) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ramya487/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ramya487/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Matrix
 |  |
 | ------- |
