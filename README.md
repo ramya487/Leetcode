@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ramya487/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramya487/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/ramya487/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramya487/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2433-best-poker-hand](https://github.com/ramya487/Leetcode/tree/master/2433-best-poker-hand) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ramya487/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/ramya487/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ramya487/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ramya487/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramya487/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ramya487/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramya487/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2433-best-poker-hand](https://github.com/ramya487/Leetcode/tree/master/2433-best-poker-hand) |
