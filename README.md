@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-random-flip-matrix](https://github.com/ramya487/Leetcode/tree/master/0913-random-flip-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2433-best-poker-hand](https://github.com/ramya487/Leetcode/tree/master/2433-best-poker-hand) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ramya487/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ramya487/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ramya487/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ramya487/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ramya487/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3644-minimum-positive-sum-subarray](https://github.com/ramya487/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
