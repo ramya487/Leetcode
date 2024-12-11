@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/ramya487/Leetcode/tree/master/2433-best-poker-hand) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ramya487/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ramya487/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ramya487/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Matrix
 |  |
 | ------- |
