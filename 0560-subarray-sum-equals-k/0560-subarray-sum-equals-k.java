@@ -1,19 +1,25 @@
-// T - O(N) + O(N2)
-// S - O(N)
-// brute force
+// T- O(n)
+// S- O(2n)
+// prefix sum
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int[] prefixarr = new int[nums.length]; // prefix sum array
+        int n = nums.length;
+        int[] psum = new int[n];
+        Map<Integer, Integer> mp = new HashMap<>(); // presum:frequency
         int summ = 0;
-        for (int i = 0; i<nums.length; i++){
-            summ+=nums[i];
-            prefixarr[i] = summ;
-        }
         int count = 0;
-        for (int i = 0; i<prefixarr.length; i++){
-            if (prefixarr[i] == k) count++;
-            for (int j = i+1; j<prefixarr.length; j++){
-                if (prefixarr[j] - prefixarr[i] == k) count++;
+        for (int i = 0; i < n; i++) {
+            summ += nums[i];
+            if (summ == k)
+                count++;
+            int rem = summ - k;
+            if (mp.containsKey(rem)) {
+                count += mp.get(rem);
+            }
+            if (!mp.containsKey(summ)) {
+                mp.put(summ, 1);
+            } else {
+                mp.put(summ, mp.get(summ) + 1);
             }
         }
         return count;
