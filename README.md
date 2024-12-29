@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/ramya487/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ramya487/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0554-brick-wall](https://github.com/ramya487/Leetcode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/ramya487/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/ramya487/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0829-subdomain-visit-count](https://github.com/ramya487/Leetcode/tree/master/0829-subdomain-visit-count) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ramya487/Leetcode/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/ramya487/Leetcode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/ramya487/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ramya487/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
 | [0667-beautiful-arrangement-ii](https://github.com/ramya487/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ramya487/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ramya487/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/ramya487/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/ramya487/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Counting
