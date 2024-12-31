@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ramya487/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ramya487/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ramya487/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ramya487/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/ramya487/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ramya487/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramya487/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ramya487/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ramya487/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ramya487/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramya487/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ramya487/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -710,4 +712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ramya487/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ramya487/Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ramya487/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
