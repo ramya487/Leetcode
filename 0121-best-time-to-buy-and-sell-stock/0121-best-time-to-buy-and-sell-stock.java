@@ -1,3 +1,5 @@
+// T- O(n)
+// S- O(1)
 class Solution {
     public int maxProfit(int[] prices) {
         int minn = prices[0];
