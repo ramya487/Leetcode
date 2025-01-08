@@ -1,3 +1,6 @@
+// T- O(n)
+// S- O(1)
+// kadane's algo - maximum subarray sum
 class Solution {
     public int maxSubArray(int[] nums) {
         int summ = 0;
