@@ -1,20 +1,24 @@
+// T- O(n2*log(unique triplets))
+// S- O(n) + O(unique triplets)
+// hashset
+
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Set<List<Integer>> set = new HashSet<>();
-        Set<Integer> ele = new HashSet<Integer>();
-        for (int i = 0; i<nums.length; i++){
-            for (int j = i+1; j<nums.length; j++){
-                int temp = -(nums[i]+nums[j]);
-                if (ele.contains(temp)){
-                    List<Integer> lst = Arrays.asList(nums[i], nums[j], temp);
-                    lst.sort(null);
-                    set.add(lst);
+        Set<List<Integer>> st = new HashSet<>();
+        int n = nums.length;
+        for (int i = 0; i<n; i++){
+            Set<Integer> temp = new HashSet<>();
+            for (int j = i+1; j<n; j++){
+                int t = 0-(nums[i]+nums[j]);
+                if (temp.contains(t)){
+                    List<Integer> ls = Arrays.asList(nums[i], nums[j], t);
+                    ls.sort(null);
+                    st.add(ls);
                 }
-                ele.add(nums[j]);
+                temp.add(nums[j]);
             }
-            ele.clear();
         }
-        List<List<Integer>> ans = new ArrayList<>(set);
-        return ans;
+        List<List<Integer>> ret = new ArrayList<>(st);
+        return ret;
     }
 }
