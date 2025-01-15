@@ -1,27 +1,26 @@
 // T- O(n)
-// S- O(2n)
-// prefix sum
+// S- O(n)
+// prefix sum and hashing
 class Solution {
     public int subarraySum(int[] nums, int k) {
         int n = nums.length;
-        int[] psum = new int[n];
-        Map<Integer, Integer> mp = new HashMap<>(); // presum:frequency
+        Map<Integer, Integer> mp = new HashMap<>(); // psum: frequency
         int summ = 0;
-        int count = 0;
+        int ret = 0;
         for (int i = 0; i < n; i++) {
             summ += nums[i];
             if (summ == k)
-                count++;
-            int rem = summ - k;
+                ret++;
+            int rem = summ-k;
             if (mp.containsKey(rem)) {
-                count += mp.get(rem);
+                ret += mp.get(rem);
             }
-            if (!mp.containsKey(summ)) {
-                mp.put(summ, 1);
-            } else {
+            if (mp.containsKey(summ)) {
                 mp.put(summ, mp.get(summ) + 1);
+            } else {
+                mp.put(summ, 1);
             }
         }
-        return count;
+        return ret;
     }
 }
