@@ -1,28 +1,29 @@
 class Solution {
-    public void BFS(int u, int[][] isConnected, boolean[] visited){
-        visited[u] = true;
-        Queue<Integer> queue = new LinkedList<>();
-        queue.offer(u);
-        while(!queue.isEmpty()){
-            int curr = queue.poll();
-            for(int i = 0; i< isConnected.length; i++){
-                if(!visited[i] && isConnected[curr][i] == 1){
-                    visited[i] = true;
-                    queue.offer(i);
+    public static void bfs(int[][] matrix, int[] vis, int node){
+        Queue<Integer> q = new LinkedList<>();
+        q.add(node);
+        vis[node] = 1;
+        while (!q.isEmpty()){
+            int front = q.poll();
+            for (int i = 0; i<matrix.length; i++){
+                if (vis[i] == 0 && matrix[front][i] == 1){
+                    q.add(i);
+                    vis[i] = 1;
                 }
             }
         }
     }
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-        boolean[] visited = new boolean[n+1];
-        int count = 0;
-        for(int i = 0; i< n; i++){
-            if(!visited[i]){
-                count++;
-                BFS(i,isConnected,visited);
+        int[] vis = new int[n];
+        int p = 0;
+        for (int i = 0; i<n; i++){
+            if (vis[i] == 0){
+                p++;
+                bfs(isConnected, vis, i);
             }
         }
-        return count;
+
+        return p;
     }
 }
