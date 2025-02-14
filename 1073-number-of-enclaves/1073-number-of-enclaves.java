@@ -1,49 +1,55 @@
-// graph - adj.mat - bfs
-class Tuple{
-    int i,j;
-    Tuple(int i, int j){
-        this.i = i;
-        this.j = j;
-    }
-}
+// dfs
+// T- O(n*m)
+// S- O(n*m)
+
 class Solution {
+    public static void dfs(int i, int j, int[][] grid, int[][] vis){
+        if (vis[i][j] == 1) return;
+        vis[i][j] = 1;
+        int[] delrow = {-1,0,1,0};
+        int[] delcol = {0,1,0,-1};
+        int m = grid.length;
+        int n = grid[0].length;
+        for (int counter = 0; counter<4; counter++){
+            int nr = i+delrow[counter];
+            int nc = j+delcol[counter];
+            if (nr>=0 && nc>=0 && nr<m && nc<n && grid[nr][nc] == 1)
+                dfs(nr, nc, grid, vis);  
+        }
+    }
     public int numEnclaves(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
+
         int[][] vis = new int[m][n];
 
-        int[] delRow = {-1,0,1,0};
-        int[] delCol = {0,1,0,-1};
-
-        Queue<Tuple> q = new LinkedList<>();
-        for (int i = 0; i<m; i++){
-            for (int j = 0; j<n; j++){
-                if (i == 0 || j == 0 || i == m-1 || j == n-1){
-                    if (grid[i][j] == 1){
-                        q.offer(new Tuple(i,j));
-                        vis[i][j] = 1;
-                    }
-                }
-            }
+        for (int i = 0; i<n; i++){
+            if (grid[0][i] == 1)
+                dfs(0, i, grid, vis);
         }
-        while (!q.isEmpty()){
-            Tuple node = q.poll();
-            for (int counter = 0; counter<4; counter++){
-                int nr = node.i+delRow[counter];
-                int nc = node.j+delCol[counter];
-                if (nr>=0 && nr<vis.length && nc>=0 && nc<vis[0].length && vis[nr][nc] == 0 && grid[nr][nc] == 1){
-                    q.offer(new Tuple(nr, nc));
-                    vis[nr][nc] = 1;
-                }
-            }
+        for (int i = 0; i<n; i++){
+            if (grid[m-1][i] == 1)
+                dfs(m-1, i, grid, vis);
+        }
+        for (int i = 0; i<m; i++){
+            if (grid[i][0] == 1)
+                dfs(i, 0,grid, vis);
+        }
+        for (int i = 0; i<m; i++){
+            if (grid[i][n-1] == 1)
+                dfs(i, n-1, grid, vis);
         }
 
-        int landsNotVisited = 0;
+        int lcells = 0;
+
         for (int i = 0; i<m; i++){
             for (int j = 0; j<n; j++){
-                if (grid[i][j] == 1 && vis[i][j] == 0) landsNotVisited++;
+                if (vis[i][j] == 0 && grid[i][j] == 1)
+                    lcells++;
             }
         }
-        return landsNotVisited;
+
+        System.out.println(Arrays.deepToString(vis));
+        return lcells;
     }
 }
