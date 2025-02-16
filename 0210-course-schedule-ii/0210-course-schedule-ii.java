@@ -1,78 +1,36 @@
 class Solution {
-    static class DetectCycleGraph {
-		private int V;
-		private List<List<Integer>> edges;
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+        int n = numCourses;
+        List<List<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i<n; i++){
+            adj.add(new ArrayList<>());
+        }
+        int[] indeg = new int[n];
+        for (int i = 0; i<prerequisites.length; i++){
+            int[] arry = prerequisites[i];
+            adj.get(arry[1]).add(arry[0]); // adj list construction
+            indeg[arry[0]]++; // indeg calc
+        }
 
-		DetectCycleGraph(int n) {
-			this.V = n;
-			System.out.println(n);
-			edges = new ArrayList<>();
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 0; i<n; i++){
+            if (indeg[i] == 0) q.offer(i);
+        }
 
-			for (int i = 0; i < n; i++) {
-				edges.add(new ArrayList<>());
-			}
-		}
-
-		public DetectCycleGraph() {
-		}
-
-		private void addEdge(int i, int j) {
-			edges.get(i).add(j);
-		}
-
-		List<Integer> l = new ArrayList<>();
-
-		public int[] isCycle(DetectCycleGraph graph) {
-
-			boolean[] visited = new boolean[this.V];
-			boolean[] curRec = new boolean[this.V];
-			for (int i = 0; i < this.V; i++) {
-				if (isCycleUtil(visited, curRec, i))
-					return new int[0];
-			}
-
-			int[] res = new int[V];
-			int index = 0;
-			for (Integer i : l) {
-				res[index] = i;
-				index++;
-			}
-
-			return res;
-		}
-
-		public boolean isCycleUtil(boolean[] visited, boolean[] curRec, int i) {
-
-			if (visited[i] == false) {
-
-				visited[i] = true;
-				curRec[i] = true;
-
-				List<Integer> neighbours = edges.get(i);
-				for (Integer v : neighbours) {
-
-					if (!visited[v] && isCycleUtil(visited, curRec, v))
-						return true;
-					else if (curRec[v])
-						return true;
-				}
-				l.add(new Integer(i));
-			}
-
-			curRec[i] = false;
-
-			return false;
-		}
-	}
-
-	public int[] findOrder(int numCourses, int[][] prerequisites) {
-
-		DetectCycleGraph graph = new DetectCycleGraph(numCourses);
-		for (int i = 0; i < prerequisites.length; i++) {
-			int[] sub = prerequisites[i];
-			graph.addEdge(sub[0], sub[1]);
-		}
-		return graph.isCycle(graph);
-
-	}
+        int[] topo = new int[n];
+        int c = 0;
+        while (!q.isEmpty()){
+            int frnt = q.poll();
+            topo[c++] = frnt;
+            for (int it: adj.get(frnt)){
+                indeg[it]--;
+                if (indeg[it] == 0){
+                    q.offer(it);
+                }
+            }
+        }
+        if (c == n) return topo;
+        int[] arr = {};
+        return arr;
+    }
 }
