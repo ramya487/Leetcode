@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/ramya487/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ramya487/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ramya487/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1753-path-with-minimum-effort](https://github.com/ramya487/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramya487/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramya487/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2433-best-poker-hand](https://github.com/ramya487/Leetcode/tree/master/2433-best-poker-hand) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ramya487/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ramya487/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ramya487/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/ramya487/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Recursion
 |  |
 | ------- |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/ramya487/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/ramya487/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/ramya487/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramya487/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ramya487/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ramya487/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/ramya487/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
 | ------- |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/ramya487/Leetcode/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramya487/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ramya487/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1753-path-with-minimum-effort](https://github.com/ramya487/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -540,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ramya487/Leetcode/tree/master/0621-task-scheduler) |
+| [1753-path-with-minimum-effort](https://github.com/ramya487/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/ramya487/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 ## Greedy
 |  |
@@ -583,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ramya487/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ramya487/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ramya487/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/ramya487/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
