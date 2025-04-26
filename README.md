@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ramya487/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ramya487/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ramya487/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/ramya487/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ramya487/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ramya487/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramya487/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ramya487/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ramya487/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramya487/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ramya487/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ramya487/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ramya487/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/ramya487/Leetcode/tree/master/0087-scramble-string) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ramya487/Leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/ramya487/Leetcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/ramya487/Leetcode/tree/master/0464-can-i-win) |
 | [1013-fibonacci-number](https://github.com/ramya487/Leetcode/tree/master/1013-fibonacci-number) |
